@@ -27,7 +27,17 @@ Here are some ideas to get you started:
 
 ---
 ### 🚀 Projects
-- 📝 [recruit AI](https://github.com/sk-final-2/ai-server)
+- 📝 [Re:AI](https://github.com/sk-final-2/ai-server)
+- 면접관 AI[Recruit:AI]
+- 📝 [영화추천](https://github.com/woogi123/Movie_WebScraping)
+- 웹스크래핑을 통한 상영중인 영화 정보 확인 및 추천
+- 📝 [devry](https://github.com/WorkSpaceForHanmg/MiniProject2)
+- 개발자 일기[developer diary]
+- 📝 [직무추천 챗봇](https://github.com/rookies-minipj3-team5/skshieldus-minipj3-team5)
+- 사용자의 자기소개서를 통한 직무 추천 및 필요역량 안내
+- 📝 [bodylog] ()
+- 운동 분석 및 피드백(졸업작품)
+
 ---
 
 ### 📊 GitHub Stats
