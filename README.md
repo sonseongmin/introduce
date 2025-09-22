@@ -1,4 +1,4 @@
-## 성민이 작업공간 
+## 손성민
 
 <!--
 **sonseongmin/sonseongmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 
+### 📂 Portfolio
+[![Notion Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/26e2ce0e910b80d8b96ff71807d15e97?source=copy_link)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AI+%2B+Backend+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 
