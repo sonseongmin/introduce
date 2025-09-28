@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+[![Confluence](https://img.shields.io/badge/Confluence-0078D4?logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
+
 
 ### 📂 Portfolio
 [![Notion Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/26e2ce0e910b80d8b96ff71807d15e97?source=copy_link)
